@@ -25,3 +25,5 @@ PostgreSQL
 JWT for authentication
 
 The application supports full CRUD operations, note archiving, tag management, and category-based filtering. It is fully functional and deployed online via Netlify (frontend) and Render (backend).
+
+You can try it on: https://lnkd.in/eitf-A9R
